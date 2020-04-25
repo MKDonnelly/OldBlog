@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-03-09 20:19:57 -0700
+title:  "On Knowledge and Understanding"
+date:   2020-04-24 20:19:57 -0700
 categories: jekyll update
 ---
+
+"The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: (1) Combining several simple ideas into one compound one, and thus all complex ideas are made. (2) Brining two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations (3) Separating them from all other ideas that accompany them in their real existance: this is called abstraction, and thus all its general ideas are made."
+   --John Locke
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
